@@ -31,7 +31,7 @@ def add_city():
     return redirect('/')
 
 
-@app.route('/delete/<city_id>', methods=['GET'])
+@app.route('/delete/<city_id>')
 def delete(city_id):
     city = City.query.get(city_id)
     db.session.delete(city)
