@@ -1,6 +1,5 @@
 import os
 import json
-import random
 import requests
 from datetime import datetime, timedelta
 from WeatherApp.models import City
