@@ -1,6 +1,8 @@
 # Simple-Weather-App
 A simple python backend project inspired by one of JetBrains Academy projects.
 
+[Hosted on Heroku](https://simplesweatherapp.herokuapp.com/)
+
 Frontend styles as well as basic idea comes from JetBrains Academy,
 logic/backend of the app is provided by me with the help of Flask framework
 
